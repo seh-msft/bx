@@ -14,8 +14,8 @@ Written in [Go](https://golang.org).
 
 ## Usage
 
-	; parseburpxml -h
-	Usage of parseburpxml:
+	; bx -h
+	Usage of bx:
 	-R    omit responses in CSV (as they may corrupt output in excel)
 	-c    emit XML as CSV only
 	-d    decode base64 bodies (may corrupt output)
